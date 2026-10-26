@@ -1,0 +1,44 @@
+[
+  {
+    "theme_id": 158,
+    "theme_name": "Star Wars",
+    "distinct_minifigs": 1350,
+    "total_minifig_count": 2502
+  },
+  {
+    "theme_id": 435,
+    "theme_name": "Ninjago",
+    "distinct_minifigs": 954,
+    "total_minifig_count": 1729
+  },
+  {
+    "theme_id": 494,
+    "theme_name": "Friends",
+    "distinct_minifigs": 878,
+    "total_minifig_count": 1187
+  },
+  {
+    "theme_id": 246,
+    "theme_name": "Harry Potter",
+    "distinct_minifigs": 593,
+    "total_minifig_count": 836
+  },
+  {
+    "theme_id": 52,
+    "theme_name": "City",
+    "distinct_minifigs": 512,
+    "total_minifig_count": 598
+  },
+  {
+    "theme_id": 67,
+    "theme_name": "Classic Town",
+    "distinct_minifigs": 453,
+    "total_minifig_count": 847
+  },
+  {
+    "theme_id": 719,
+    "theme_name": "BrickLink Designer Program",
+    "distinct_minifigs": 385,
+    "total_minifig_count": 390
+  }
+]

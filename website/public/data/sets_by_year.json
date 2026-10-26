@@ -1,0 +1,464 @@
+[
+  {
+    "year": 1949,
+    "num_sets": 5,
+    "avg_parts": 96.6,
+    "total_parts": 483
+  },
+  {
+    "year": 1950,
+    "num_sets": 6,
+    "avg_parts": 1.0,
+    "total_parts": 6
+  },
+  {
+    "year": 1953,
+    "num_sets": 4,
+    "avg_parts": 12.5,
+    "total_parts": 50
+  },
+  {
+    "year": 1954,
+    "num_sets": 15,
+    "avg_parts": 7.866666666666666,
+    "total_parts": 118
+  },
+  {
+    "year": 1955,
+    "num_sets": 39,
+    "avg_parts": 12.461538461538462,
+    "total_parts": 486
+  },
+  {
+    "year": 1956,
+    "num_sets": 18,
+    "avg_parts": 16.0,
+    "total_parts": 288
+  },
+  {
+    "year": 1957,
+    "num_sets": 24,
+    "avg_parts": 34.291666666666664,
+    "total_parts": 823
+  },
+  {
+    "year": 1958,
+    "num_sets": 65,
+    "avg_parts": 18.246153846153845,
+    "total_parts": 1186
+  },
+  {
+    "year": 1959,
+    "num_sets": 4,
+    "avg_parts": 14.25,
+    "total_parts": 57
+  },
+  {
+    "year": 1960,
+    "num_sets": 3,
+    "avg_parts": 175.33333333333334,
+    "total_parts": 526
+  },
+  {
+    "year": 1961,
+    "num_sets": 25,
+    "avg_parts": 94.88,
+    "total_parts": 2372
+  },
+  {
+    "year": 1962,
+    "num_sets": 13,
+    "avg_parts": 85.84615384615384,
+    "total_parts": 1116
+  },
+  {
+    "year": 1963,
+    "num_sets": 61,
+    "avg_parts": 67.34426229508196,
+    "total_parts": 4108
+  },
+  {
+    "year": 1964,
+    "num_sets": 38,
+    "avg_parts": 40.86842105263158,
+    "total_parts": 1553
+  },
+  {
+    "year": 1965,
+    "num_sets": 33,
+    "avg_parts": 50.484848484848484,
+    "total_parts": 1666
+  },
+  {
+    "year": 1966,
+    "num_sets": 122,
+    "avg_parts": 43.81967213114754,
+    "total_parts": 5346
+  },
+  {
+    "year": 1967,
+    "num_sets": 32,
+    "avg_parts": 106.46875,
+    "total_parts": 3407
+  },
+  {
+    "year": 1968,
+    "num_sets": 42,
+    "avg_parts": 129.11904761904762,
+    "total_parts": 5423
+  },
+  {
+    "year": 1969,
+    "num_sets": 76,
+    "avg_parts": 71.0,
+    "total_parts": 5396
+  },
+  {
+    "year": 1970,
+    "num_sets": 44,
+    "avg_parts": 77.0909090909091,
+    "total_parts": 3392
+  },
+  {
+    "year": 1971,
+    "num_sets": 60,
+    "avg_parts": 86.71666666666667,
+    "total_parts": 5203
+  },
+  {
+    "year": 1972,
+    "num_sets": 41,
+    "avg_parts": 96.14634146341463,
+    "total_parts": 3942
+  },
+  {
+    "year": 1973,
+    "num_sets": 76,
+    "avg_parts": 94.97368421052632,
+    "total_parts": 7218
+  },
+  {
+    "year": 1974,
+    "num_sets": 39,
+    "avg_parts": 103.7948717948718,
+    "total_parts": 4048
+  },
+  {
+    "year": 1975,
+    "num_sets": 41,
+    "avg_parts": 134.70731707317074,
+    "total_parts": 5523
+  },
+  {
+    "year": 1976,
+    "num_sets": 77,
+    "avg_parts": 142.66233766233765,
+    "total_parts": 10985
+  },
+  {
+    "year": 1977,
+    "num_sets": 115,
+    "avg_parts": 76.63478260869566,
+    "total_parts": 8813
+  },
+  {
+    "year": 1978,
+    "num_sets": 77,
+    "avg_parts": 140.74025974025975,
+    "total_parts": 10837
+  },
+  {
+    "year": 1979,
+    "num_sets": 93,
+    "avg_parts": 96.97849462365592,
+    "total_parts": 9019
+  },
+  {
+    "year": 1980,
+    "num_sets": 110,
+    "avg_parts": 105.63636363636364,
+    "total_parts": 11620
+  },
+  {
+    "year": 1981,
+    "num_sets": 85,
+    "avg_parts": 92.61176470588235,
+    "total_parts": 7872
+  },
+  {
+    "year": 1982,
+    "num_sets": 89,
+    "avg_parts": 64.95505617977528,
+    "total_parts": 5781
+  },
+  {
+    "year": 1983,
+    "num_sets": 75,
+    "avg_parts": 93.85333333333334,
+    "total_parts": 7039
+  },
+  {
+    "year": 1984,
+    "num_sets": 98,
+    "avg_parts": 75.56122448979592,
+    "total_parts": 7405
+  },
+  {
+    "year": 1985,
+    "num_sets": 177,
+    "avg_parts": 103.2542372881356,
+    "total_parts": 18276
+  },
+  {
+    "year": 1986,
+    "num_sets": 172,
+    "avg_parts": 89.79069767441861,
+    "total_parts": 15444
+  },
+  {
+    "year": 1987,
+    "num_sets": 242,
+    "avg_parts": 65.60743801652893,
+    "total_parts": 15877
+  },
+  {
+    "year": 1988,
+    "num_sets": 86,
+    "avg_parts": 122.73255813953489,
+    "total_parts": 10555
+  },
+  {
+    "year": 1989,
+    "num_sets": 138,
+    "avg_parts": 88.76086956521739,
+    "total_parts": 12249
+  },
+  {
+    "year": 1990,
+    "num_sets": 120,
+    "avg_parts": 158.50833333333333,
+    "total_parts": 19021
+  },
+  {
+    "year": 1991,
+    "num_sets": 148,
+    "avg_parts": 131.58783783783784,
+    "total_parts": 19475
+  },
+  {
+    "year": 1992,
+    "num_sets": 150,
+    "avg_parts": 102.76666666666667,
+    "total_parts": 15415
+  },
+  {
+    "year": 1993,
+    "num_sets": 138,
+    "avg_parts": 123.8695652173913,
+    "total_parts": 17094
+  },
+  {
+    "year": 1994,
+    "num_sets": 169,
+    "avg_parts": 103.8224852071006,
+    "total_parts": 17546
+  },
+  {
+    "year": 1995,
+    "num_sets": 196,
+    "avg_parts": 127.00510204081633,
+    "total_parts": 24893
+  },
+  {
+    "year": 1996,
+    "num_sets": 196,
+    "avg_parts": 165.23469387755102,
+    "total_parts": 32386
+  },
+  {
+    "year": 1997,
+    "num_sets": 287,
+    "avg_parts": 106.56445993031359,
+    "total_parts": 30584
+  },
+  {
+    "year": 1998,
+    "num_sets": 423,
+    "avg_parts": 123.91489361702128,
+    "total_parts": 52416
+  },
+  {
+    "year": 1999,
+    "num_sets": 395,
+    "avg_parts": 90.19240506329113,
+    "total_parts": 35626
+  },
+  {
+    "year": 2000,
+    "num_sets": 411,
+    "avg_parts": 92.85644768856447,
+    "total_parts": 38164
+  },
+  {
+    "year": 2001,
+    "num_sets": 460,
+    "avg_parts": 87.77391304347826,
+    "total_parts": 40376
+  },
+  {
+    "year": 2002,
+    "num_sets": 582,
+    "avg_parts": 94.12542955326461,
+    "total_parts": 54781
+  },
+  {
+    "year": 2003,
+    "num_sets": 546,
+    "avg_parts": 133.78571428571428,
+    "total_parts": 73047
+  },
+  {
+    "year": 2004,
+    "num_sets": 468,
+    "avg_parts": 139.03418803418805,
+    "total_parts": 65068
+  },
+  {
+    "year": 2005,
+    "num_sets": 419,
+    "avg_parts": 173.27684964200478,
+    "total_parts": 72603
+  },
+  {
+    "year": 2006,
+    "num_sets": 452,
+    "avg_parts": 162.80752212389382,
+    "total_parts": 73589
+  },
+  {
+    "year": 2007,
+    "num_sets": 485,
+    "avg_parts": 165.44329896907217,
+    "total_parts": 80240
+  },
+  {
+    "year": 2008,
+    "num_sets": 464,
+    "avg_parts": 182.01939655172413,
+    "total_parts": 84457
+  },
+  {
+    "year": 2009,
+    "num_sets": 556,
+    "avg_parts": 147.44244604316546,
+    "total_parts": 81978
+  },
+  {
+    "year": 2010,
+    "num_sets": 545,
+    "avg_parts": 175.03669724770643,
+    "total_parts": 95395
+  },
+  {
+    "year": 2011,
+    "num_sets": 666,
+    "avg_parts": 124.81231231231232,
+    "total_parts": 83125
+  },
+  {
+    "year": 2012,
+    "num_sets": 777,
+    "avg_parts": 123.2985842985843,
+    "total_parts": 95803
+  },
+  {
+    "year": 2013,
+    "num_sets": 845,
+    "avg_parts": 131.22721893491124,
+    "total_parts": 110887
+  },
+  {
+    "year": 2014,
+    "num_sets": 1057,
+    "avg_parts": 124.00946073793756,
+    "total_parts": 131078
+  },
+  {
+    "year": 2015,
+    "num_sets": 1044,
+    "avg_parts": 143.03927203065135,
+    "total_parts": 149333
+  },
+  {
+    "year": 2016,
+    "num_sets": 1006,
+    "avg_parts": 158.3409542743539,
+    "total_parts": 159291
+  },
+  {
+    "year": 2017,
+    "num_sets": 1122,
+    "avg_parts": 159.7433155080214,
+    "total_parts": 179232
+  },
+  {
+    "year": 2018,
+    "num_sets": 1082,
+    "avg_parts": 158.9648798521257,
+    "total_parts": 172000
+  },
+  {
+    "year": 2019,
+    "num_sets": 1143,
+    "avg_parts": 168.98950131233596,
+    "total_parts": 193155
+  },
+  {
+    "year": 2020,
+    "num_sets": 1136,
+    "avg_parts": 187.10651408450704,
+    "total_parts": 212553
+  },
+  {
+    "year": 2021,
+    "num_sets": 1369,
+    "avg_parts": 195.39956172388605,
+    "total_parts": 267502
+  },
+  {
+    "year": 2022,
+    "num_sets": 1368,
+    "avg_parts": 206.7609649122807,
+    "total_parts": 282849
+  },
+  {
+    "year": 2023,
+    "num_sets": 1406,
+    "avg_parts": 215.23044096728307,
+    "total_parts": 302614
+  },
+  {
+    "year": 2024,
+    "num_sets": 1304,
+    "avg_parts": 260.43174846625766,
+    "total_parts": 339603
+  },
+  {
+    "year": 2025,
+    "num_sets": 1437,
+    "avg_parts": 259.96102992345163,
+    "total_parts": 373564
+  },
+  {
+    "year": 2026,
+    "num_sets": 1565,
+    "avg_parts": 260.83130990415333,
+    "total_parts": 408201
+  },
+  {
+    "year": 2027,
+    "num_sets": 57,
+    "avg_parts": 0.47368421052631576,
+    "total_parts": 27
+  }
+]

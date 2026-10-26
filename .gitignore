@@ -1,0 +1,25 @@
+# Not pushed to GitHub
+/README.md
+
+# Raw/derived data (download fresh from Rebrickable; too large to commit)
+data/raw/
+data/processed/
+data/*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Website
+website/node_modules/
+website/dist/
+website/.vite/
+
+# OS
+.DS_Store
+Thumbs.db

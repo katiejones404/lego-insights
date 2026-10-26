@@ -1,0 +1,262 @@
+[
+  {
+    "year": 1975,
+    "distinct_minifigs": 25,
+    "total_minifig_count": 37
+  },
+  {
+    "year": 1976,
+    "distinct_minifigs": 30,
+    "total_minifig_count": 82
+  },
+  {
+    "year": 1977,
+    "distinct_minifigs": 15,
+    "total_minifig_count": 37
+  },
+  {
+    "year": 1978,
+    "distinct_minifigs": 38,
+    "total_minifig_count": 83
+  },
+  {
+    "year": 1979,
+    "distinct_minifigs": 39,
+    "total_minifig_count": 129
+  },
+  {
+    "year": 1980,
+    "distinct_minifigs": 50,
+    "total_minifig_count": 103
+  },
+  {
+    "year": 1981,
+    "distinct_minifigs": 43,
+    "total_minifig_count": 74
+  },
+  {
+    "year": 1982,
+    "distinct_minifigs": 40,
+    "total_minifig_count": 85
+  },
+  {
+    "year": 1983,
+    "distinct_minifigs": 47,
+    "total_minifig_count": 93
+  },
+  {
+    "year": 1984,
+    "distinct_minifigs": 55,
+    "total_minifig_count": 98
+  },
+  {
+    "year": 1985,
+    "distinct_minifigs": 115,
+    "total_minifig_count": 193
+  },
+  {
+    "year": 1986,
+    "distinct_minifigs": 72,
+    "total_minifig_count": 118
+  },
+  {
+    "year": 1987,
+    "distinct_minifigs": 82,
+    "total_minifig_count": 118
+  },
+  {
+    "year": 1988,
+    "distinct_minifigs": 77,
+    "total_minifig_count": 120
+  },
+  {
+    "year": 1989,
+    "distinct_minifigs": 85,
+    "total_minifig_count": 180
+  },
+  {
+    "year": 1990,
+    "distinct_minifigs": 92,
+    "total_minifig_count": 142
+  },
+  {
+    "year": 1991,
+    "distinct_minifigs": 87,
+    "total_minifig_count": 189
+  },
+  {
+    "year": 1992,
+    "distinct_minifigs": 96,
+    "total_minifig_count": 167
+  },
+  {
+    "year": 1993,
+    "distinct_minifigs": 128,
+    "total_minifig_count": 184
+  },
+  {
+    "year": 1994,
+    "distinct_minifigs": 99,
+    "total_minifig_count": 147
+  },
+  {
+    "year": 1995,
+    "distinct_minifigs": 81,
+    "total_minifig_count": 125
+  },
+  {
+    "year": 1996,
+    "distinct_minifigs": 161,
+    "total_minifig_count": 284
+  },
+  {
+    "year": 1997,
+    "distinct_minifigs": 153,
+    "total_minifig_count": 255
+  },
+  {
+    "year": 1998,
+    "distinct_minifigs": 195,
+    "total_minifig_count": 351
+  },
+  {
+    "year": 1999,
+    "distinct_minifigs": 184,
+    "total_minifig_count": 295
+  },
+  {
+    "year": 2000,
+    "distinct_minifigs": 201,
+    "total_minifig_count": 380
+  },
+  {
+    "year": 2001,
+    "distinct_minifigs": 138,
+    "total_minifig_count": 224
+  },
+  {
+    "year": 2002,
+    "distinct_minifigs": 279,
+    "total_minifig_count": 419
+  },
+  {
+    "year": 2003,
+    "distinct_minifigs": 219,
+    "total_minifig_count": 295
+  },
+  {
+    "year": 2004,
+    "distinct_minifigs": 164,
+    "total_minifig_count": 321
+  },
+  {
+    "year": 2005,
+    "distinct_minifigs": 190,
+    "total_minifig_count": 370
+  },
+  {
+    "year": 2006,
+    "distinct_minifigs": 285,
+    "total_minifig_count": 529
+  },
+  {
+    "year": 2007,
+    "distinct_minifigs": 244,
+    "total_minifig_count": 494
+  },
+  {
+    "year": 2008,
+    "distinct_minifigs": 311,
+    "total_minifig_count": 554
+  },
+  {
+    "year": 2009,
+    "distinct_minifigs": 393,
+    "total_minifig_count": 632
+  },
+  {
+    "year": 2010,
+    "distinct_minifigs": 422,
+    "total_minifig_count": 721
+  },
+  {
+    "year": 2011,
+    "distinct_minifigs": 581,
+    "total_minifig_count": 870
+  },
+  {
+    "year": 2012,
+    "distinct_minifigs": 635,
+    "total_minifig_count": 958
+  },
+  {
+    "year": 2013,
+    "distinct_minifigs": 651,
+    "total_minifig_count": 899
+  },
+  {
+    "year": 2014,
+    "distinct_minifigs": 696,
+    "total_minifig_count": 965
+  },
+  {
+    "year": 2015,
+    "distinct_minifigs": 794,
+    "total_minifig_count": 1112
+  },
+  {
+    "year": 2016,
+    "distinct_minifigs": 904,
+    "total_minifig_count": 1081
+  },
+  {
+    "year": 2017,
+    "distinct_minifigs": 898,
+    "total_minifig_count": 1101
+  },
+  {
+    "year": 2018,
+    "distinct_minifigs": 908,
+    "total_minifig_count": 1115
+  },
+  {
+    "year": 2019,
+    "distinct_minifigs": 947,
+    "total_minifig_count": 1232
+  },
+  {
+    "year": 2020,
+    "distinct_minifigs": 890,
+    "total_minifig_count": 1310
+  },
+  {
+    "year": 2021,
+    "distinct_minifigs": 1002,
+    "total_minifig_count": 1379
+  },
+  {
+    "year": 2022,
+    "distinct_minifigs": 992,
+    "total_minifig_count": 1159
+  },
+  {
+    "year": 2023,
+    "distinct_minifigs": 1127,
+    "total_minifig_count": 1366
+  },
+  {
+    "year": 2024,
+    "distinct_minifigs": 1140,
+    "total_minifig_count": 1446
+  },
+  {
+    "year": 2025,
+    "distinct_minifigs": 1264,
+    "total_minifig_count": 1566
+  },
+  {
+    "year": 2026,
+    "distinct_minifigs": 1101,
+    "total_minifig_count": 1274
+  }
+]

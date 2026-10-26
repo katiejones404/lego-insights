@@ -1,0 +1,382 @@
+[
+  {
+    "part_cat_id": 60,
+    "category_name": "Minifig Upper Body",
+    "num_parts": 7880
+  },
+  {
+    "part_cat_id": 59,
+    "category_name": "Minifig Heads",
+    "num_parts": 5422
+  },
+  {
+    "part_cat_id": 4,
+    "category_name": "Duplo, Quatro and Primo",
+    "num_parts": 5203
+  },
+  {
+    "part_cat_id": 17,
+    "category_name": "Gear Parts",
+    "num_parts": 5052
+  },
+  {
+    "part_cat_id": 58,
+    "category_name": "Stickers",
+    "num_parts": 4657
+  },
+  {
+    "part_cat_id": 19,
+    "category_name": "Tiles",
+    "num_parts": 3717
+  },
+  {
+    "part_cat_id": 61,
+    "category_name": "Minifig Lower Body",
+    "num_parts": 3254
+  },
+  {
+    "part_cat_id": 65,
+    "category_name": "Minifig Headwear",
+    "num_parts": 2251
+  },
+  {
+    "part_cat_id": 11,
+    "category_name": "Bricks",
+    "num_parts": 1829
+  },
+  {
+    "part_cat_id": 41,
+    "category_name": "Large Buildable Figures",
+    "num_parts": 1427
+  },
+  {
+    "part_cat_id": 67,
+    "category_name": "Tiles Round and Curved",
+    "num_parts": 1289
+  },
+  {
+    "part_cat_id": 57,
+    "category_name": "Non-Buildable Figures (Duplo, Fabuland, etc)",
+    "num_parts": 1245
+  },
+  {
+    "part_cat_id": 66,
+    "category_name": "Modulex",
+    "num_parts": 1186
+  },
+  {
+    "part_cat_id": 75,
+    "category_name": "Animal / Creature Body Parts",
+    "num_parts": 964
+  },
+  {
+    "part_cat_id": 28,
+    "category_name": "Animals / Creatures",
+    "num_parts": 909
+  },
+  {
+    "part_cat_id": 37,
+    "category_name": "Bricks Curved",
+    "num_parts": 899
+  },
+  {
+    "part_cat_id": 63,
+    "category_name": "Minidoll Upper Body",
+    "num_parts": 799
+  },
+  {
+    "part_cat_id": 42,
+    "category_name": "Belville, Scala and Fabuland",
+    "num_parts": 743
+  },
+  {
+    "part_cat_id": 27,
+    "category_name": "Minifig Accessories",
+    "num_parts": 742
+  },
+  {
+    "part_cat_id": 20,
+    "category_name": "Bricks Round and Cones",
+    "num_parts": 734
+  },
+  {
+    "part_cat_id": 78,
+    "category_name": "Pen & Watch",
+    "num_parts": 731
+  },
+  {
+    "part_cat_id": 3,
+    "category_name": "Bricks Sloped",
+    "num_parts": 647
+  },
+  {
+    "part_cat_id": 13,
+    "category_name": "Minifigs",
+    "num_parts": 622
+  },
+  {
+    "part_cat_id": 45,
+    "category_name": "Electronics",
+    "num_parts": 616
+  },
+  {
+    "part_cat_id": 71,
+    "category_name": "Minifig Neckwear",
+    "num_parts": 612
+  },
+  {
+    "part_cat_id": 73,
+    "category_name": "Minifig Shields, Weapons, & Tools",
+    "num_parts": 569
+  },
+  {
+    "part_cat_id": 36,
+    "category_name": "Transportation - Land",
+    "num_parts": 566
+  },
+  {
+    "part_cat_id": 64,
+    "category_name": "Minidoll Lower Body",
+    "num_parts": 536
+  },
+  {
+    "part_cat_id": 47,
+    "category_name": "Windscreens and Fuselage",
+    "num_parts": 523
+  },
+  {
+    "part_cat_id": 15,
+    "category_name": "Tiles Special",
+    "num_parts": 522
+  },
+  {
+    "part_cat_id": 9,
+    "category_name": "Plates Special",
+    "num_parts": 499
+  },
+  {
+    "part_cat_id": 35,
+    "category_name": "Transportation - Sea and Air",
+    "num_parts": 482
+  },
+  {
+    "part_cat_id": 6,
+    "category_name": "Bricks Wedged",
+    "num_parts": 479
+  },
+  {
+    "part_cat_id": 16,
+    "category_name": "Windows and Doors",
+    "num_parts": 476
+  },
+  {
+    "part_cat_id": 62,
+    "category_name": "Minidoll Heads",
+    "num_parts": 471
+  },
+  {
+    "part_cat_id": 23,
+    "category_name": "Panels",
+    "num_parts": 452
+  },
+  {
+    "part_cat_id": 29,
+    "category_name": "Wheels and Tyres",
+    "num_parts": 425
+  },
+  {
+    "part_cat_id": 48,
+    "category_name": "Clikits",
+    "num_parts": 413
+  },
+  {
+    "part_cat_id": 38,
+    "category_name": "Flags, Banners and Signs",
+    "num_parts": 391
+  },
+  {
+    "part_cat_id": 21,
+    "category_name": "Plates Round Curved and Dishes",
+    "num_parts": 390
+  },
+  {
+    "part_cat_id": 77,
+    "category_name": "Non-System Parts",
+    "num_parts": 336
+  },
+  {
+    "part_cat_id": 5,
+    "category_name": "Bricks Special",
+    "num_parts": 327
+  },
+  {
+    "part_cat_id": 1,
+    "category_name": "Baseplates",
+    "num_parts": 243
+  },
+  {
+    "part_cat_id": 18,
+    "category_name": "Hinges, Arms and Turntables",
+    "num_parts": 239
+  },
+  {
+    "part_cat_id": 26,
+    "category_name": "Technic Special",
+    "num_parts": 229
+  },
+  {
+    "part_cat_id": 68,
+    "category_name": "Projectiles / Launchers",
+    "num_parts": 224
+  },
+  {
+    "part_cat_id": 30,
+    "category_name": "Tubes and Hoses",
+    "num_parts": 197
+  },
+  {
+    "part_cat_id": 7,
+    "category_name": "Containers",
+    "num_parts": 193
+  },
+  {
+    "part_cat_id": 40,
+    "category_name": "Technic Panels",
+    "num_parts": 178
+  },
+  {
+    "part_cat_id": 72,
+    "category_name": "Minifig Headwear Accessories",
+    "num_parts": 166
+  },
+  {
+    "part_cat_id": 14,
+    "category_name": "Plates",
+    "num_parts": 148
+  },
+  {
+    "part_cat_id": 76,
+    "category_name": "Plants & Trees",
+    "num_parts": 140
+  },
+  {
+    "part_cat_id": 32,
+    "category_name": "Bars, Ladders and Fences",
+    "num_parts": 138
+  },
+  {
+    "part_cat_id": 25,
+    "category_name": "Technic Steering, Suspension and Engine",
+    "num_parts": 135
+  },
+  {
+    "part_cat_id": 31,
+    "category_name": "String, Bands and Reels",
+    "num_parts": 134
+  },
+  {
+    "part_cat_id": 70,
+    "category_name": "Minifig Hipwear",
+    "num_parts": 134
+  },
+  {
+    "part_cat_id": 12,
+    "category_name": "Technic Connectors",
+    "num_parts": 118
+  },
+  {
+    "part_cat_id": 52,
+    "category_name": "Technic Gears",
+    "num_parts": 117
+  },
+  {
+    "part_cat_id": 50,
+    "category_name": "HO Scale",
+    "num_parts": 107
+  },
+  {
+    "part_cat_id": 69,
+    "category_name": "Energy Effects",
+    "num_parts": 96
+  },
+  {
+    "part_cat_id": 34,
+    "category_name": "Supports, Girders and Cranes",
+    "num_parts": 93
+  },
+  {
+    "part_cat_id": 49,
+    "category_name": "Plates Wedged",
+    "num_parts": 79
+  },
+  {
+    "part_cat_id": 74,
+    "category_name": "Animal / Creature Accessories",
+    "num_parts": 67
+  },
+  {
+    "part_cat_id": 33,
+    "category_name": "Rock",
+    "num_parts": 60
+  },
+  {
+    "part_cat_id": 51,
+    "category_name": "Technic Beams",
+    "num_parts": 53
+  },
+  {
+    "part_cat_id": 39,
+    "category_name": "Magnets and Holders",
+    "num_parts": 45
+  },
+  {
+    "part_cat_id": 55,
+    "category_name": "Technic Beams Special",
+    "num_parts": 43
+  },
+  {
+    "part_cat_id": 24,
+    "category_name": "Other",
+    "num_parts": 39
+  },
+  {
+    "part_cat_id": 53,
+    "category_name": "Technic Pins",
+    "num_parts": 35
+  },
+  {
+    "part_cat_id": 22,
+    "category_name": "Pneumatics",
+    "num_parts": 33
+  },
+  {
+    "part_cat_id": 8,
+    "category_name": "Technic Bricks",
+    "num_parts": 29
+  },
+  {
+    "part_cat_id": 44,
+    "category_name": "Mechanical",
+    "num_parts": 29
+  },
+  {
+    "part_cat_id": 46,
+    "category_name": "Technic Axles",
+    "num_parts": 29
+  },
+  {
+    "part_cat_id": 43,
+    "category_name": "Znap",
+    "num_parts": 22
+  },
+  {
+    "part_cat_id": 56,
+    "category_name": "Tools",
+    "num_parts": 21
+  },
+  {
+    "part_cat_id": 54,
+    "category_name": "Technic Bushes",
+    "num_parts": 7
+  }
+]

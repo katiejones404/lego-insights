@@ -1,0 +1,464 @@
+[
+  {
+    "year": 1949,
+    "opaque_quantity": 792.0,
+    "trans_quantity": 0.0,
+    "trans_share": 0.0
+  },
+  {
+    "year": 1950,
+    "opaque_quantity": 22.0,
+    "trans_quantity": 0.0,
+    "trans_share": 0.0
+  },
+  {
+    "year": 1953,
+    "opaque_quantity": 106.0,
+    "trans_quantity": 0.0,
+    "trans_share": 0.0
+  },
+  {
+    "year": 1954,
+    "opaque_quantity": 182.0,
+    "trans_quantity": 2.0,
+    "trans_share": 0.010869565217391304
+  },
+  {
+    "year": 1955,
+    "opaque_quantity": 1205.0,
+    "trans_quantity": 43.0,
+    "trans_share": 0.03445512820512821
+  },
+  {
+    "year": 1956,
+    "opaque_quantity": 482.0,
+    "trans_quantity": 19.0,
+    "trans_share": 0.03792415169660679
+  },
+  {
+    "year": 1957,
+    "opaque_quantity": 1427.0,
+    "trans_quantity": 61.0,
+    "trans_share": 0.04099462365591398
+  },
+  {
+    "year": 1958,
+    "opaque_quantity": 2726.0,
+    "trans_quantity": 218.0,
+    "trans_share": 0.07404891304347826
+  },
+  {
+    "year": 1959,
+    "opaque_quantity": 57.0,
+    "trans_quantity": 0.0,
+    "trans_share": 0.0
+  },
+  {
+    "year": 1960,
+    "opaque_quantity": 550.0,
+    "trans_quantity": 26.0,
+    "trans_share": 0.04513888888888889
+  },
+  {
+    "year": 1961,
+    "opaque_quantity": 2314.0,
+    "trans_quantity": 315.0,
+    "trans_share": 0.1198174210726512
+  },
+  {
+    "year": 1962,
+    "opaque_quantity": 2923.0,
+    "trans_quantity": 503.0,
+    "trans_share": 0.14681844716870987
+  },
+  {
+    "year": 1963,
+    "opaque_quantity": 20697.0,
+    "trans_quantity": 57.0,
+    "trans_share": 0.0027464585140213934
+  },
+  {
+    "year": 1964,
+    "opaque_quantity": 1925.0,
+    "trans_quantity": 69.0,
+    "trans_share": 0.03460381143430291
+  },
+  {
+    "year": 1965,
+    "opaque_quantity": 1971.0,
+    "trans_quantity": 123.0,
+    "trans_share": 0.05873925501432665
+  },
+  {
+    "year": 1966,
+    "opaque_quantity": 7580.0,
+    "trans_quantity": 468.0,
+    "trans_share": 0.05815109343936382
+  },
+  {
+    "year": 1967,
+    "opaque_quantity": 4120.0,
+    "trans_quantity": 151.0,
+    "trans_share": 0.0353547178646687
+  },
+  {
+    "year": 1968,
+    "opaque_quantity": 5691.0,
+    "trans_quantity": 246.0,
+    "trans_share": 0.04143506821627085
+  },
+  {
+    "year": 1969,
+    "opaque_quantity": 6421.0,
+    "trans_quantity": 466.0,
+    "trans_share": 0.06766371424422826
+  },
+  {
+    "year": 1970,
+    "opaque_quantity": 3745.0,
+    "trans_quantity": 193.0,
+    "trans_share": 0.049009649568308784
+  },
+  {
+    "year": 1971,
+    "opaque_quantity": 5338.0,
+    "trans_quantity": 190.0,
+    "trans_share": 0.034370477568740954
+  },
+  {
+    "year": 1972,
+    "opaque_quantity": 4508.0,
+    "trans_quantity": 97.0,
+    "trans_share": 0.021064060803474484
+  },
+  {
+    "year": 1973,
+    "opaque_quantity": 8526.0,
+    "trans_quantity": 251.0,
+    "trans_share": 0.028597470661957388
+  },
+  {
+    "year": 1974,
+    "opaque_quantity": 4459.0,
+    "trans_quantity": 166.0,
+    "trans_share": 0.03589189189189189
+  },
+  {
+    "year": 1975,
+    "opaque_quantity": 5520.0,
+    "trans_quantity": 173.0,
+    "trans_share": 0.03038819603021254
+  },
+  {
+    "year": 1976,
+    "opaque_quantity": 11555.0,
+    "trans_quantity": 288.0,
+    "trans_share": 0.024318162627712574
+  },
+  {
+    "year": 1977,
+    "opaque_quantity": 9576.0,
+    "trans_quantity": 430.0,
+    "trans_share": 0.04297421547071757
+  },
+  {
+    "year": 1978,
+    "opaque_quantity": 12550.0,
+    "trans_quantity": 299.0,
+    "trans_share": 0.02327029340804732
+  },
+  {
+    "year": 1979,
+    "opaque_quantity": 10291.0,
+    "trans_quantity": 477.0,
+    "trans_share": 0.044297919762258546
+  },
+  {
+    "year": 1980,
+    "opaque_quantity": 12946.0,
+    "trans_quantity": 449.0,
+    "trans_share": 0.033519970138111234
+  },
+  {
+    "year": 1981,
+    "opaque_quantity": 9825.0,
+    "trans_quantity": 395.0,
+    "trans_share": 0.038649706457925634
+  },
+  {
+    "year": 1982,
+    "opaque_quantity": 5752.0,
+    "trans_quantity": 168.0,
+    "trans_share": 0.02837837837837838
+  },
+  {
+    "year": 1983,
+    "opaque_quantity": 7125.0,
+    "trans_quantity": 336.0,
+    "trans_share": 0.04503417772416566
+  },
+  {
+    "year": 1984,
+    "opaque_quantity": 7682.0,
+    "trans_quantity": 439.0,
+    "trans_share": 0.05405738209580101
+  },
+  {
+    "year": 1985,
+    "opaque_quantity": 19813.0,
+    "trans_quantity": 1039.0,
+    "trans_share": 0.049827354690197584
+  },
+  {
+    "year": 1986,
+    "opaque_quantity": 17184.0,
+    "trans_quantity": 705.0,
+    "trans_share": 0.03940969310749623
+  },
+  {
+    "year": 1987,
+    "opaque_quantity": 15302.0,
+    "trans_quantity": 680.0,
+    "trans_share": 0.042547866349643346
+  },
+  {
+    "year": 1988,
+    "opaque_quantity": 10597.0,
+    "trans_quantity": 555.0,
+    "trans_share": 0.049766857962697274
+  },
+  {
+    "year": 1989,
+    "opaque_quantity": 16383.0,
+    "trans_quantity": 570.0,
+    "trans_share": 0.03362236772252698
+  },
+  {
+    "year": 1990,
+    "opaque_quantity": 20121.0,
+    "trans_quantity": 841.0,
+    "trans_share": 0.04012021753649461
+  },
+  {
+    "year": 1991,
+    "opaque_quantity": 21860.0,
+    "trans_quantity": 1221.0,
+    "trans_share": 0.05290065421775486
+  },
+  {
+    "year": 1992,
+    "opaque_quantity": 16902.0,
+    "trans_quantity": 645.0,
+    "trans_share": 0.03675842024277654
+  },
+  {
+    "year": 1993,
+    "opaque_quantity": 17623.0,
+    "trans_quantity": 870.0,
+    "trans_share": 0.04704482777267074
+  },
+  {
+    "year": 1994,
+    "opaque_quantity": 19465.0,
+    "trans_quantity": 752.0,
+    "trans_share": 0.03719641885541871
+  },
+  {
+    "year": 1995,
+    "opaque_quantity": 25358.0,
+    "trans_quantity": 692.0,
+    "trans_share": 0.02656429942418426
+  },
+  {
+    "year": 1996,
+    "opaque_quantity": 34304.0,
+    "trans_quantity": 1183.0,
+    "trans_share": 0.03333615126666103
+  },
+  {
+    "year": 1997,
+    "opaque_quantity": 30238.0,
+    "trans_quantity": 1041.0,
+    "trans_share": 0.033281115125163845
+  },
+  {
+    "year": 1998,
+    "opaque_quantity": 50503.0,
+    "trans_quantity": 1411.0,
+    "trans_share": 0.027179566205647803
+  },
+  {
+    "year": 1999,
+    "opaque_quantity": 33073.0,
+    "trans_quantity": 1435.0,
+    "trans_share": 0.041584560102005334
+  },
+  {
+    "year": 2000,
+    "opaque_quantity": 37715.0,
+    "trans_quantity": 1355.0,
+    "trans_share": 0.03468134118249296
+  },
+  {
+    "year": 2001,
+    "opaque_quantity": 40711.0,
+    "trans_quantity": 1517.0,
+    "trans_share": 0.03592403144832813
+  },
+  {
+    "year": 2002,
+    "opaque_quantity": 56530.0,
+    "trans_quantity": 1788.0,
+    "trans_share": 0.03065948763675023
+  },
+  {
+    "year": 2003,
+    "opaque_quantity": 72960.0,
+    "trans_quantity": 3707.0,
+    "trans_share": 0.048351963687114405
+  },
+  {
+    "year": 2004,
+    "opaque_quantity": 66539.0,
+    "trans_quantity": 4627.0,
+    "trans_share": 0.0650170025011944
+  },
+  {
+    "year": 2005,
+    "opaque_quantity": 83663.0,
+    "trans_quantity": 3829.0,
+    "trans_share": 0.04376400128011704
+  },
+  {
+    "year": 2006,
+    "opaque_quantity": 83963.0,
+    "trans_quantity": 3894.0,
+    "trans_share": 0.044322023287842745
+  },
+  {
+    "year": 2007,
+    "opaque_quantity": 89903.0,
+    "trans_quantity": 3835.0,
+    "trans_share": 0.040911903390300625
+  },
+  {
+    "year": 2008,
+    "opaque_quantity": 94584.0,
+    "trans_quantity": 4091.0,
+    "trans_share": 0.04145933620471244
+  },
+  {
+    "year": 2009,
+    "opaque_quantity": 89882.0,
+    "trans_quantity": 3800.0,
+    "trans_share": 0.040562754851518966
+  },
+  {
+    "year": 2010,
+    "opaque_quantity": 112128.0,
+    "trans_quantity": 4717.0,
+    "trans_share": 0.040369720569985876
+  },
+  {
+    "year": 2011,
+    "opaque_quantity": 97238.0,
+    "trans_quantity": 4075.0,
+    "trans_share": 0.04022188662856692
+  },
+  {
+    "year": 2012,
+    "opaque_quantity": 104056.0,
+    "trans_quantity": 4858.0,
+    "trans_share": 0.04460399948583286
+  },
+  {
+    "year": 2013,
+    "opaque_quantity": 117342.0,
+    "trans_quantity": 6859.0,
+    "trans_share": 0.05522499818842038
+  },
+  {
+    "year": 2014,
+    "opaque_quantity": 133609.0,
+    "trans_quantity": 7799.0,
+    "trans_share": 0.05515246662140756
+  },
+  {
+    "year": 2015,
+    "opaque_quantity": 143703.0,
+    "trans_quantity": 10162.0,
+    "trans_share": 0.06604490949858642
+  },
+  {
+    "year": 2016,
+    "opaque_quantity": 151100.0,
+    "trans_quantity": 9627.0,
+    "trans_share": 0.059896594847163205
+  },
+  {
+    "year": 2017,
+    "opaque_quantity": 187332.0,
+    "trans_quantity": 9601.0,
+    "trans_share": 0.04875262144993475
+  },
+  {
+    "year": 2018,
+    "opaque_quantity": 190496.0,
+    "trans_quantity": 9396.0,
+    "trans_share": 0.04700538290676966
+  },
+  {
+    "year": 2019,
+    "opaque_quantity": 209401.0,
+    "trans_quantity": 8780.0,
+    "trans_share": 0.040241817573482566
+  },
+  {
+    "year": 2020,
+    "opaque_quantity": 242221.0,
+    "trans_quantity": 9586.0,
+    "trans_share": 0.03806883843578614
+  },
+  {
+    "year": 2021,
+    "opaque_quantity": 303441.0,
+    "trans_quantity": 11254.0,
+    "trans_share": 0.03576161044821176
+  },
+  {
+    "year": 2022,
+    "opaque_quantity": 277577.0,
+    "trans_quantity": 10461.0,
+    "trans_share": 0.036318124691880935
+  },
+  {
+    "year": 2023,
+    "opaque_quantity": 293353.0,
+    "trans_quantity": 10783.0,
+    "trans_share": 0.03545453349817187
+  },
+  {
+    "year": 2024,
+    "opaque_quantity": 323871.0,
+    "trans_quantity": 11853.0,
+    "trans_share": 0.03530578689637917
+  },
+  {
+    "year": 2025,
+    "opaque_quantity": 356469.0,
+    "trans_quantity": 11257.0,
+    "trans_share": 0.030612466891109143
+  },
+  {
+    "year": 2026,
+    "opaque_quantity": 392513.0,
+    "trans_quantity": 9846.0,
+    "trans_share": 0.024470684140282684
+  },
+  {
+    "year": 2027,
+    "opaque_quantity": 27.0,
+    "trans_quantity": 0.0,
+    "trans_share": 0.0
+  }
+]
