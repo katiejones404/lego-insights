@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Lego-Insights/',
+  base: '/lego-insights/',
   plugins: [react()],
 })
