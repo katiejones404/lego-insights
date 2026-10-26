@@ -27,7 +27,7 @@ Lego-Insights/
 Rebrickable's full CSV export is too large to commit to the repo. Download a current snapshot yourself:
 
 1. Go to https://rebrickable.com/downloads/
-2. Download all CSVs into `data/raw/` (same files as before: `sets.csv`, `themes.csv`, `colors.csv`, `parts.csv`, `part_categories.csv`, `part_relationships.csv`, `elements.csv`, `inventories.csv`, `inventory_parts.csv`, `inventory_sets.csv`, `inventory_minifigs.csv`, `minifigs.csv`)
+2. Download all CSVs into `data/raw/`: `sets.csv`, `themes.csv`, `colors.csv`, `parts.csv`, `part_categories.csv`, `part_relationships.csv`, `elements.csv`, `inventories.csv`, `inventory_parts.csv`, `inventory_sets.csv`, `inventory_minifigs.csv`, `minifigs.csv`
 3. Note the download date somewhere (e.g. rename the folder or jot it in `docs/insights.md`) so the write-up can state how current the data is
 
 ## Running the pipeline

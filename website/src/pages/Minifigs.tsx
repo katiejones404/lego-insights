@@ -19,8 +19,7 @@ export function Minifigs() {
         <h1>Minifigure diversity</h1>
         <p className="page-subtitle">
           How many distinct minifigures LEGO has introduced each year, and which themes have
-          produced the most minifig variety. Successor to the original project's minifig
-          head/skin-tone analysis, extended across the full catalog.
+          produced the most minifig variety.
         </p>
       </div>
 
